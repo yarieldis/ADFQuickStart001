@@ -1,0 +1,15 @@
+{
+	"name": "ADFQuickStartFactory001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7606feea-3f5b-440d-9b3b-a7254ee4222d",
+		"tenantId": "0f0d92a7-51e3-4c79-aa2f-83e11e9b030d"
+	}
+}
